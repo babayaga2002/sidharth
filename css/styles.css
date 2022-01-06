@@ -399,7 +399,7 @@ img:hover{
   z-index: var(--z-back);
 }
 .skills__cpp {
-  width: 65%;
+  width: 75%;
 }
 .skills__html {
   width: 95%;
@@ -411,7 +411,7 @@ img:hover{
   width: 65%;
 }
 .skills__flutter {
-  width: 55%;
+  width: 85%;
 }
 .skills__figma {
   width: 75%;
